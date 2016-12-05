@@ -1,0 +1,84 @@
+---- transport_sendPacketBuffer Matches (0 in 0 files) ----
+---- MQTTSerialize_publish Matches (4 in 2 files) ----
+MQTTPublish.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):DLLExport int MQTTSerialize_publish(unsigned char* buf, int buflen, unsigned char dup, int qos, unsigned char retained, unsigned short packetid,
+MQTTSerializePublish.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int MQTTSerialize_publishLength(int qos, MQTTString topicName, int payloadlen)
+MQTTSerializePublish.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int MQTTSerialize_publish(unsigned char* buf, int buflen, unsigned char dup, int qos, unsigned char retained, unsigned short packetid,
+MQTTSerializePublish.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	if (MQTTPacket_len(rem_len = MQTTSerialize_publishLength(qos, topicName, payloadlen)) > buflen)
+---- MQTTSerialize_connect Matches (4 in 2 files) ----
+MQTTConnect.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):DLLExport int MQTTSerialize_connect(unsigned char* buf, int buflen, MQTTPacket_connectData* options);
+MQTTConnectClient.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int MQTTSerialize_connectLength(MQTTPacket_connectData* options)
+MQTTConnectClient.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int MQTTSerialize_connect(unsigned char* buf, int buflen, MQTTPacket_connectData* options)
+MQTTConnectClient.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	if (MQTTPacket_len(len = MQTTSerialize_connectLength(options)) > buflen)
+---- MQTTPacket_connectData Matches (10 in 5 files) ----
+MQTTConnect.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):} MQTTPacket_connectData;
+MQTTConnect.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):#define MQTTPacket_connectData_initializer { {'M', 'Q', 'T', 'C'}, 0, 4, {NULL, {0, NULL}}, 60, 1, 0, \
+MQTTConnect.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):DLLExport int MQTTSerialize_connect(unsigned char* buf, int buflen, MQTTPacket_connectData* options);
+MQTTConnect.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):DLLExport int MQTTDeserialize_connect(MQTTPacket_connectData* data, unsigned char* buf, int len);
+MQTTConnectClient.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int MQTTSerialize_connectLength(MQTTPacket_connectData* options)
+MQTTConnectClient.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int MQTTSerialize_connect(unsigned char* buf, int buflen, MQTTPacket_connectData* options)
+MQTTConnectServer.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int MQTTDeserialize_connect(MQTTPacket_connectData* data, unsigned char* buf, int len)
+MQTTFormat.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int MQTTStringFormat_connect(char* strbuf, int strbuflen, MQTTPacket_connectData* data)
+MQTTFormat.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):		MQTTPacket_connectData data;
+MQTTFormat.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):int MQTTStringFormat_connect(char* strbuf, int strbuflen, MQTTPacket_connectData* data);
+---- GAgent_connect Matches (1 in 1 files) ----
+Adapter_linux.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int32 GAgent_connect( int32 iSocketId, uint16 port,
+---- sig: Matches (1 in 1 files) ----
+App.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	DB(DB2,"sig: %d",sig);
+---- cmd_tcp_sock Matches (20 in 1 files) ----
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):INT32 cmd_tcp_sock = -1;
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        if(0 <= cmd_tcp_sock)
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        cmd_tcp_sock = sys_sock_create(GAPP_IPPROTO_TCP);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        ret = sys_sock_connect(cmd_tcp_sock,&tcpip_addr);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        ret = sys_sock_close(cmd_tcp_sock);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):    if(1 == ret && 0 <= cmd_tcp_sock)
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        ret = sys_sock_send(cmd_tcp_sock,data,strlen(data));
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):    if((INT32)n1 == cmd_tcp_sock)
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        DB(DB3,"socket %d connect success %d %d!!",cmd_tcp_sock,(INT32)n2,(INT32)n3);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):    if((INT32)n1 == cmd_tcp_sock)
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        DB(DB3,"socket %d error %d %d !!",cmd_tcp_sock,(INT32)n2,(INT32)n3);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        sys_sock_close(cmd_tcp_sock);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        cmd_tcp_sock = -1;
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):    if((INT32)n1 == cmd_tcp_sock)
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        DB(DB3,"socket %d read %d %d !!",cmd_tcp_sock,(INT32)n2,(INT32)n3);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        ret = sys_sock_recv(cmd_tcp_sock,buff,1300);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):    if((INT32)n1 == cmd_tcp_sock)
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        ret = sys_sock_close(cmd_tcp_sock);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):    if((INT32)n1 == cmd_tcp_sock)
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):        cmd_tcp_sock = -1;
+---- cmd_pdp Matches (3 in 1 files) ----
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):INT32 cmd_pdp(const INT8 *str);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	{"+pdp",cmd_pdp},
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):INT32 cmd_pdp(const INT8 *str)
+---- memset Matches (7 in 5 files) ----
+Adapter_linux.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	memset(f_cellinfo,0,sizeof(CellInfo_t)*7);
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):					memset(&cmd_parser,0,sizeof(cmd_parser));
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):					memset(&cmd_parser,0,sizeof(cmd_parser));
+Cmd.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):					memset(&cmd_parser,0,sizeof(cmd_parser));
+Manage.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):		memset(time, 0, sizeof(module_date_t));
+Netsysmsg.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	memset(incoming_phone, 0, MAX_INPHONE_LEN);
+String.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\inc):extern void * memset(void *,int,size_t);
+---- MQTTPacket_read Matches (2 in 2 files) ----
+MQTTPacket.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int MQTTPacket_read(unsigned char* buf, int buflen, int (*getfn)(unsigned char*, int))
+MQTTPacket.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):DLLExport int MQTTPacket_read(unsigned char* buf, int buflen, int (*getfn)(unsigned char*, int));
+---- SUBACK Matches (8 in 4 files) ----
+MQTTFormat.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	"PUBCOMP", "SUBSCRIBE", "SUBACK", "UNSUBSCRIBE", "UNSUBACK",
+MQTTFormat.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):		"SUBACK packet id %d count %d granted qos %d", packetid, count, grantedQoSs[0]);
+MQTTFormat.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	case SUBACK:
+MQTTPacket.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):	PUBCOMP, SUBSCRIBE, SUBACK, UNSUBSCRIBE, UNSUBACK,
+MQTTSubscribeClient.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):  * Deserializes the supplied (wire) buffer into suback data
+MQTTSubscribeClient.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	if (header.bits.type != SUBACK)
+MQTTSubscribeServer.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):  * Serializes the supplied suback data into the supplied buffer, ready for sending
+MQTTSubscribeServer.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	header.bits.type = SUBACK;
+---- getfn Matches (10 in 2 files) ----
+MQTTPacket.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src): * @param getfn pointer to a function which will read any number of bytes from the needed source
+MQTTPacket.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):int MQTTPacket_read(unsigned char* buf, int buflen, int (*getfn)(unsigned char*, int))
+MQTTPacket.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	if ((*getfn)(buf, 1) != 1)
+MQTTPacket.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	MQTTPacket_decode(getfn, &rem_len);
+MQTTPacket.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	if ((*getfn)(buf + len, rem_len) != rem_len)
+MQTTPacket.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):		if ((frc=(*trp->getfn)(trp->sck, &c, 1)) == -1)
+MQTTPacket.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):		if ((frc=(*trp->getfn)(trp->sck, buf, 1)) == -1)
+MQTTPacket.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):		if ((frc=(*trp->getfn)(trp->sck, buf + trp->len, trp->rem_len)) == -1)
+MQTTPacket.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):DLLExport int MQTTPacket_read(unsigned char* buf, int buflen, int (*getfn)(unsigned char*, int));
+MQTTPacket.h (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\inc):	int (*getfn)(void *, unsigned char*, int); /* must return -1 for error, 0 for call again, or the number of bytes read */
+---- stop_init Matches (1 in 1 files) ----
+Adapter_linux.c (c:\users\trento.2016-0122-1612\desktop\recent_work\paho_mqtt\g510_opencpu_demo_1.0.0.8\app\src):	stop_init();

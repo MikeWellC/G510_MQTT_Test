@@ -1,0 +1,766 @@
+Archive member included because of file (symbol)
+
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(atoi.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o (atoi)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(ctype.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(atoi.o) (_ctype)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(inet.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o (htons)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcmp.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o (memcmp)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcpy.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o (memcpy)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memset.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o (memset)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(sget_response.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o (sget_response)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strchr.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o (strchr)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strcmp.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o (strcmp)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strlen.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o (strlen)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncmp.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o (strncmp)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncpy.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o (strncpy)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strstr.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o (strstr)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strtol.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o (strtol)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(vsprintf.o)
+                              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o (snprintf)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_callback.o)
+                              (--whole-archive)
+/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_services.o)
+                              (--whole-archive)
+
+Allocating common symbols
+Common symbol       size              file
+
+TASK_FOUR           0x4               /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+g_APN               0x40              /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+TASK_FIVE           0x4               /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+TASK_ONE            0x4               /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+cmd_buffer          0x404             /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+TASK_THREE          0x4               /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+myfdesc             0x434             /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+TASK_TWO            0x4               /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+
+Discarded input sections
+
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTDeserializePublish.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSerializePublish.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeClient.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeServer.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeClient.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeServer.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/debug.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/netsysmsg.o
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(atoi.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(ctype.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(inet.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcmp.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcpy.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memset.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(sget_response.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strchr.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strcmp.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strlen.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncmp.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncpy.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strstr.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strtol.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(vsprintf.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_callback.o)
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_services.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectClient.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTDeserializePublish.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSerializePublish.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeClient.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeServer.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeClient.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeServer.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/debug.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/netsysmsg.o
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/tool/libgcc.a
+LOAD /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib
+                0x0000000088250000                . = 0x88250000
+                0x0000000088250000                _app_start = .
+
+.sys_vt         0x0000000088250000       0x20
+ *(.SYS_VVT)
+ .SYS_VVT       0x0000000088250000       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_callback.o)
+                0x0000000088250000                __sys_vt__
+
+.app_code       0x0000000088250020     0x6eb0
+ *(.text)
+ .text          0x0000000088250020      0x310 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectClient.o
+                0x0000000088250021                MQTTSerialize_zero
+                0x0000000088250079                MQTTSerialize_pingreq
+                0x000000008825008d                MQTTSerialize_disconnect
+                0x00000000882500a1                MQTTDeserialize_connack
+                0x0000000088250111                MQTTSerialize_connectLength
+                0x00000000882501a9                MQTTSerialize_connect
+ .text          0x0000000088250330      0x24c /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o
+                0x0000000088250331                MQTTSerialize_connack
+                0x00000000882503b1                MQTTPacket_checkVersion
+                0x0000000088250429                MQTTDeserialize_connect
+ .text          0x000000008825057c      0x114 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTDeserializePublish.o
+                0x000000008825057d                MQTTDeserialize_ack
+                0x00000000882505d9                MQTTDeserialize_publish
+ .text          0x0000000088250690      0x5dc /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o
+                0x0000000088250691                MQTTPacket_getName
+                0x00000000882506a5                MQTTStringFormat_unsubscribe
+                0x00000000882506d9                MQTTStringFormat_suback
+                0x0000000088250701                MQTTStringFormat_subscribe
+                0x000000008825073d                MQTTStringFormat_ack
+                0x00000000882507a1                MQTTStringFormat_publish
+                0x00000000882507f9                MQTTStringFormat_connack
+                0x0000000088250819                MQTTStringFormat_connect
+                0x00000000882508cd                MQTTFormat_toServerString
+                0x0000000088250ab9                MQTTFormat_toClientString
+ .text          0x0000000088250c6c      0x504 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o
+                0x0000000088250c6d                MQTTPacket_encode
+                0x0000000088250cc5                MQTTPacket_decode
+                0x0000000088250d99                MQTTPacket_len
+                0x0000000088250dc1                bufchar
+                0x0000000088250de5                MQTTPacket_decodeBuf
+                0x0000000088250e09                readInt
+                0x0000000088250e19                readChar
+                0x0000000088250e25                writeChar
+                0x0000000088250e31                writeInt
+                0x0000000088250e85                getLenStringLen
+                0x0000000088250e91                readMQTTLenString
+                0x0000000088250ee5                MQTTPacket_read
+                0x0000000088250f41                MQTTPacket_readnb
+                0x0000000088251049                MQTTstrlen
+                0x000000008825106d                MQTTPacket_equals
+                0x00000000882510c5                writeCString
+                0x0000000088251109                writeMQTTString
+ .text          0x0000000088251170      0x1fc /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSerializePublish.o
+                0x0000000088251171                MQTTSerialize_ack
+                0x0000000088251201                MQTTSerialize_pubcomp
+                0x0000000088251221                MQTTSerialize_pubrel
+                0x0000000088251245                MQTTSerialize_puback
+                0x0000000088251265                MQTTSerialize_publishLength
+                0x0000000088251295                MQTTSerialize_publish
+ .text          0x000000008825136c      0x1c4 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeClient.o
+                0x000000008825136d                MQTTDeserialize_suback
+                0x0000000088251421                MQTTSerialize_subscribeLength
+                0x0000000088251465                MQTTSerialize_subscribe
+ .text          0x0000000088251530      0x148 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeServer.o
+                0x0000000088251531                MQTTSerialize_suback
+                0x00000000882515b5                MQTTDeserialize_subscribe
+ .text          0x0000000088251678      0x138 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeClient.o
+                0x0000000088251679                MQTTDeserialize_unsuback
+                0x00000000882516b1                MQTTSerialize_unsubscribeLength
+                0x00000000882516f5                MQTTSerialize_unsubscribe
+ .text          0x00000000882517b0      0x118 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeServer.o
+                0x00000000882517b1                MQTTSerialize_unsuback
+                0x0000000088251819                MQTTDeserialize_unsubscribe
+ .text          0x00000000882518c8      0x8e0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+                0x00000000882518c9                GAgent_DevInit
+                0x00000000882518cd                GAgent_DevLED_Red
+                0x00000000882518d1                GAgent_DevLED_Green
+                0x00000000882518d5                GAgent_DevReset
+                0x0000000088251901                Cloud_MqttSubSetup
+                0x0000000088251971                socket_getdata
+                0x0000000088251995                Cloud_MqttPubProc
+                0x0000000088251a59                Cloud_MqttPubReady
+                0x0000000088251a99                Cloud_MqttTryConnect
+                0x0000000088251b75                GAgent_GetAPNFromCarrier
+                0x0000000088251cb9                GAgent_OpenUart
+                0x0000000088251cfd                GAgent_connect
+                0x0000000088251d71                Cloud_InitSocket
+                0x0000000088251e69                GAgent_DevTick
+                0x0000000088251fa5                GAgent_DevGetMacAddress
+                0x0000000088251fd5                GAgent_GetDevTime_S
+                0x0000000088251fed                GAgent_GetDevTime_MS
+                0x0000000088252055                GAgent_LocalDataIOInit
+                0x00000000882520c9                Cloud_MqttTryConnectProc
+ .text          0x00000000882521a8      0x56c /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+                0x00000000882521b5                app5
+                0x00000000882521f9                app4
+                0x000000008825223d                app3
+                0x00000000882522d9                gapp3_timer_hanlder
+                0x0000000088252315                gapp1_timer_hanlder
+                0x0000000088252351                app2
+                0x00000000882523d9                app1
+                0x0000000088252561                sig_in
+                0x0000000088252641                at_in
+                0x00000000882526ad                uart_in
+ .text          0x0000000088252714     0x126c /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+                0x0000000088252715                cmd_sock_close_rsp_handle
+                0x000000008825272d                cmd_sock_close_ind_handle
+                0x0000000088252771                cmd_sock_error_handle
+                0x00000000882527c5                cmd_sock_connect_handle
+                0x0000000088252801                irq1
+                0x0000000088252829                irq0
+                0x0000000088252851                cmd_sock_data_recv_handle
+                0x0000000088252a05                cmdcmp
+                0x0000000088252a89                call_cmd
+                0x0000000088252b71                cmd_list
+                0x0000000088252bc5                cmd_proccess
+                0x0000000088252cbd                cmd_sendmsg
+                0x0000000088252d8d                cmd_memalloc
+                0x0000000088252e45                cmd_fileopen
+                0x0000000088252f01                cmd_filewrite
+                0x0000000088252f9d                cmd_fileseek
+                0x000000008825302d                cmd_fileread
+                0x0000000088253099                cmd_gb2UI
+                0x0000000088253105                cmd_gpioget
+                0x0000000088253171                cmd_gpioset
+                0x00000000882531e5                cmd_gpiocfg
+                0x000000008825324d                cmd_fileclear
+                0x0000000088253281                cmd_fileclose
+                0x00000000882532e1                cmd_pinirq
+                0x0000000088253369                cmd_lpgctrl
+                0x00000000882533dd                cmd_at
+                0x000000008825345d                cmd_ver
+                0x000000008825349d                cmd_mqttpublish
+                0x0000000088253545                cmd_pdp
+                0x0000000088253621                cmd_tcpsend
+                0x00000000882536d1                cmd_tcp
+                0x00000000882537d9                cmd_udpsend
+                0x00000000882538d1                cmd_udp
+ .text          0x0000000088253980       0x40 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/debug.o
+                0x0000000088253981                sys_debug
+ .text          0x00000000882539c0      0x46c /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+                0x00000000882539c1                AT_GetErrorCode
+                0x00000000882539cd                AT_GetErrorInfo
+                0x00000000882539d9                init_sending_command
+                0x0000000088253a49                process_response
+                0x0000000088253b45                send_command
+                0x0000000088253b6d                send_command_wait
+                0x0000000088253c5d                wait_ok_proc
+                0x0000000088253d91                at_handle
+ .text          0x0000000088253e2c      0xdd8 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o
+                0x0000000088253e2d                AT_GetGRegister
+                0x0000000088253e31                AT_CheckSIM
+                0x0000000088253e35                AT_SetAutoGSMReg
+                0x0000000088253e61                AT_SetAutoGPRSReg
+                0x0000000088253e8d                AT_SwitchToData
+                0x0000000088253eb9                AT_SwitchToCmd
+                0x0000000088253ee5                AT_GetRegister
+                0x0000000088253f15                AT_RestorePara
+                0x0000000088253f41                AT_GetCellInfo
+                0x0000000088253f6d                AT_GetSignal
+                0x0000000088253fa1                AT_GetIMSI
+                0x0000000088253fcd                AT_GetSerialNumber
+                0x0000000088253ff9                AT_GetManufactory
+                0x0000000088254265                AT_CheckPin
+                0x00000000882544e9                AT_SetSleep
+                0x0000000088254529                AT_SetEcho
+                0x0000000088254569                AT_SetModuleTime
+                0x00000000882545d1                AT_SetErrorNotify
+                0x0000000088254611                AT_InputPin
+                0x0000000088254681                AT_ChangePwd
+                0x00000000882546c1                AT_SetGPRSLink
+                0x0000000088254709                AT_GPRSAttach
+                0x0000000088254755                AT_GPRSActive
+                0x0000000088254795                AT_GetModuleTime
+                0x00000000882547cd                getCellInfo
+                0x0000000088254a65                AT_InitSet
+                0x0000000088254b5d                GPRS_InitSet
+ .text          0x0000000088254c04      0x15c /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/netsysmsg.o
+                0x0000000088254c19                other_response
+ .text          0x0000000088254d60       0x34 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(atoi.o)
+                0x0000000088254d61                atoi
+ .text          0x0000000088254d94       0x40 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(ctype.o)
+                0x0000000088254d95                __tolower
+                0x0000000088254db5                __toupper
+ .text          0x0000000088254dd4       0x60 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(inet.o)
+                0x0000000088254dd5                htons
+                0x0000000088254de5                ntohs
+                0x0000000088254dfd                htonl
+                0x0000000088254e21                ntohl
+ .text          0x0000000088254e34       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcmp.o)
+                0x0000000088254e35                memcmp
+ .text          0x0000000088254e54      0x1ac /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcpy.o)
+                0x0000000088254e55                memcpy
+ .text          0x0000000088255000      0x1f4 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memset.o)
+                0x0000000088255001                memset
+ .text          0x00000000882551f4      0x220 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(sget_response.o)
+                0x00000000882551f5                sget_response
+ .text          0x0000000088255414       0x40 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strchr.o)
+                0x0000000088255415                strchr
+                0x0000000088255439                strrchr
+ .text          0x0000000088255454       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strcmp.o)
+                0x0000000088255455                strcmp
+ .text          0x0000000088255474       0x38 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strlen.o)
+                0x0000000088255475                strlen
+                0x0000000088255489                strnlen
+ .text          0x00000000882554ac       0x24 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncmp.o)
+                0x00000000882554ad                strncmp
+ .text          0x00000000882554d0       0x94 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncpy.o)
+                0x00000000882554d1                strncpy
+ .text          0x0000000088255564       0x54 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strstr.o)
+                0x0000000088255565                strstr
+ .text          0x00000000882555b8      0x1bc /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strtol.o)
+                0x00000000882555b9                strtol
+ .text          0x0000000088255774      0x774 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(vsprintf.o)
+                0x0000000088255959                vsnprintf
+                0x0000000088255e91                vsprintf
+                0x0000000088255ead                snprintf
+                0x0000000088255ec9                sprintf
+ .text          0x0000000088255ee8      0x138 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_callback.o)
+                0x0000000088255ee9                __sys_init__
+ .text          0x0000000088256020      0xeb0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_services.o)
+                0x0000000088256021                sys_uart_output
+                0x0000000088256059                sys_vsnprintf
+                0x0000000088256081                sys_services_setup
+                0x0000000088256091                sys_taskSend
+                0x00000000882560b9                sys_taskSleep
+                0x00000000882560e1                sys_at_send
+                0x000000008825611d                file_name_check
+                0x00000000882561c1                sys_file_seek
+                0x00000000882561f5                sys_file_read
+                0x0000000088256235                sys_file_write
+                0x0000000088256275                sys_file_close
+                0x00000000882562ad                sys_file_delete
+                0x00000000882562f1                sys_file_getSize
+                0x0000000088256321                sys_file_flush
+                0x000000008825636d                sys_file_EOF
+                0x000000008825639d                sys_file_clear
+                0x00000000882563d5                sys_sem_new
+                0x0000000088256401                sys_sem_free
+                0x0000000088256421                sys_sem_wait
+                0x0000000088256441                sys_sem_signal
+                0x0000000088256461                sys_timer_new
+                0x000000008825649d                sys_period_timer_new
+                0x00000000882564dd                sys_timer_free
+                0x0000000088256515                sys_getHostByName
+                0x000000008825655d                sys_sock_create
+                0x0000000088256585                sys_sock_close
+                0x00000000882565ad                sys_sock_connect
+                0x00000000882565d5                sys_sock_listen
+                0x00000000882565fd                sys_sock_bind
+                0x0000000088256625                sys_sock_accept
+                0x000000008825664d                sys_sock_send
+                0x0000000088256689                sys_sock_send2
+                0x00000000882566c5                sys_sock_recv
+                0x0000000088256701                sys_sock_recvFrom
+                0x000000008825673d                sys_sock_setOpt
+                0x0000000088256769                sys_sock_getOpt
+                0x0000000088256795                sys_malloc
+                0x00000000882567bd                sys_free
+                0x00000000882567dd                sys_getSysTick
+                0x0000000088256805                sys_softReset
+                0x0000000088256825                sys_PDPActive
+                0x000000008825684d                sys_PDPRelease
+                0x0000000088256875                sys_PDPStatus
+                0x000000008825689d                sys_hookUart
+                0x00000000882568c5                sys_setRTC
+                0x0000000088256901                sys_getRTC
+                0x000000008825693d                sys_setRTC_timerMode
+                0x0000000088256975                sys_setRTC_timerSwitch
+                0x00000000882569ad                sys_setRTC_timerCB
+                0x00000000882569e5                sys_setRTC_alarm
+                0x0000000088256a21                sys_setRTC_alarmON
+                0x0000000088256a4d                sys_setRTC_alarmOFF
+                0x0000000088256a79                sys_setRTC_alarmCB
+                0x0000000088256ab1                sys_eventTrace
+                0x0000000088256ae1                sys_enterCS
+                0x0000000088256b01                sys_exitCS
+                0x0000000088256b21                sys_watchdog_enable
+                0x0000000088256b4d                sys_watchdog_disable
+                0x0000000088256b6d                sys_watchdog_feed
+                0x0000000088256b8d                sys_GB2UNI
+                0x0000000088256bc5                sys_UNI2GB
+                0x0000000088256bf1                sys_gpio_cfg
+                0x0000000088256c19                sys_gpio_set
+                0x0000000088256c45                sys_gpio_get
+                0x0000000088256c6d                sys_set
+                0x0000000088256c9d                sys_get
+                0x0000000088256ccd                sys_getCurrTimeInTicks
+                0x0000000088256cf5                i2c_open
+                0x0000000088256d1d                i2c_close
+                0x0000000088256d3d                i2c_send_byte
+                0x0000000088256d69                i2c_get_byte
+                0x0000000088256d91                i2c_send_data
+                0x0000000088256dbd                i2c_get_data
+                0x0000000088256de9                sys_textTrace
+                0x0000000088256e55                sys_file_open
+
+.app_rodata     0x0000000088256ed0     0x1710
+ *(.rodata)
+ .rodata        0x0000000088256ed0      0x128 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+ .rodata        0x0000000088256ff8       0x58 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+ .rodata        0x0000000088257050      0x190 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+ .rodata        0x00000000882571e0      0x100 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(ctype.o)
+                0x00000000882571e0                _ctype
+ *(.rodata.str1.1)
+ *(.rodata.str1.4)
+ .rodata.str1.4
+                0x00000000882572e0        0xf /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectClient.o
+                                         0x10 (size before relaxing)
+ .rodata.str1.4
+                0x0000000000000000       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o
+ *fill*         0x00000000882572ef        0x1 00
+ .rodata.str1.4
+                0x00000000882572f0      0x28b /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o
+                                        0x28c (size before relaxing)
+ *fill*         0x000000008825757b        0x1 00
+ .rodata.str1.4
+                0x000000008825757c      0x591 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+                                        0x594 (size before relaxing)
+ *fill*         0x0000000088257b0d        0x3 00
+ .rodata.str1.4
+                0x0000000088257b10      0x1a9 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+                                        0x1ac (size before relaxing)
+ *fill*         0x0000000088257cb9        0x3 00
+ .rodata.str1.4
+                0x0000000088257cbc      0x61d /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+                                        0x654 (size before relaxing)
+ *fill*         0x00000000882582d9        0x3 00
+ .rodata.str1.4
+                0x00000000882582dc       0x4f /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+                                         0x50 (size before relaxing)
+ *fill*         0x000000008825832b        0x1 00
+ .rodata.str1.4
+                0x000000008825832c      0x233 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o
+                                        0x24c (size before relaxing)
+ *fill*         0x000000008825855f        0x1 00
+ .rodata.str1.4
+                0x0000000088258560       0x45 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/netsysmsg.o
+                                         0x58 (size before relaxing)
+ *fill*         0x00000000882585a5        0x3 00
+ .rodata.str1.4
+                0x00000000882585a8       0x25 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(vsprintf.o)
+                                         0x28 (size before relaxing)
+ *fill*         0x00000000882585cd        0x3 00
+ .rodata.str1.4
+                0x00000000882585d0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_services.o)
+                                         0x14 (size before relaxing)
+ *(.rodata.*)
+                0x00000000882585e0                _SYS_APP_DATA_FLASH_START = .
+
+.rel.dyn        0x00000000882585e0        0x0
+ .rel.dyn       0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+                0x000000008237f000                . = 0x8237f000
+
+.app_data       0x000000008237f000      0x19c load address 0x00000000882585e0
+                0x000000008237f000                _SYS_APP_DATA_RAM_START = .
+ *(.data)
+ .data          0x000000008237f000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectClient.o
+ .data          0x000000008237f000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o
+ .data          0x000000008237f000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTDeserializePublish.o
+ .data          0x000000008237f000       0x3c /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o
+                0x000000008237f000                MQTTPacket_names
+ .data          0x000000008237f03c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o
+ .data          0x000000008237f03c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSerializePublish.o
+ .data          0x000000008237f03c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeClient.o
+ .data          0x000000008237f03c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeServer.o
+ .data          0x000000008237f03c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeClient.o
+ .data          0x000000008237f03c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeServer.o
+ .data          0x000000008237f03c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+ .data          0x000000008237f03c       0x54 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+                0x000000008237f03c                DataRcvSocket
+                0x000000008237f040                mqtt_socketid
+                0x000000008237f044                sys_callback
+                0x000000008237f054                app_task
+ .data          0x000000008237f090       0xc0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+                0x000000008237f090                cmd_table
+                0x000000008237f148                cmd_udp_sock
+                0x000000008237f14c                cmd_tcp_sock
+ .data          0x000000008237f150        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/debug.o
+ .data          0x000000008237f150        0x4 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+ .data          0x000000008237f154        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o
+ .data          0x000000008237f154       0x48 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/netsysmsg.o
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(atoi.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(ctype.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(inet.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcmp.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcpy.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memset.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(sget_response.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strchr.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strcmp.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strlen.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncmp.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncpy.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strstr.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strtol.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(vsprintf.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_callback.o)
+ .data          0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_services.o)
+ *(.rwdata)
+ *(.sdata)
+                0x000000008237f19c                _SYS_APP_DATA_RAM_END = .
+                0x000000000000019c                _SYS_APP_DATA_SIZE = (_SYS_APP_DATA_RAM_END - _SYS_APP_DATA_RAM_START)
+                0x000000008825877c                _SYS_APP_BSS_FLASH_START = (_SYS_APP_DATA_FLASH_START + _SYS_APP_DATA_SIZE)
+                0x000000008825877c                _app_end = _SYS_APP_BSS_FLASH_START
+                0x000000000000877c                _app_size = (_app_end - _app_start)
+                0x0000000000000001                ASSERT ((_app_size < 0x80000), APP CODE OVERFLOW !!)
+
+.app_bss        0x000000008237f19c      0xd7c load address 0x000000008825877c
+                0x000000008237f19c                _SYS_APP_BSS_RAM_START = .
+ *(.bss)
+ .bss           0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectClient.o
+ .bss           0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o
+ .bss           0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTDeserializePublish.o
+ .bss           0x000000008237f19c        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o
+ .bss           0x000000008237f19c        0x4 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o
+ .bss           0x000000008237f1a0        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSerializePublish.o
+ .bss           0x000000008237f1a0        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeClient.o
+ .bss           0x000000008237f1a0        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeServer.o
+ .bss           0x000000008237f1a0        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeClient.o
+ .bss           0x000000008237f1a0        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeServer.o
+ .bss           0x000000008237f1a0        0xc /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+                0x000000008237f1a0                g_MCC
+                0x000000008237f1a4                g_MNC
+ .bss           0x000000008237f1ac        0x8 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+                0x000000008237f1ac                SecondCnt
+                0x000000008237f1b0                GprsAttched
+                0x000000008237f1b1                GprsActived
+ .bss           0x000000008237f1b4      0x408 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+                0x000000008237f1b4                cmd_parser
+ .bss           0x000000008237f5bc        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/debug.o
+ .bss           0x000000008237f5bc       0xa8 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+ .bss           0x000000008237f664        0x1 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o
+ *fill*         0x000000008237f665        0x3 00
+ .bss           0x000000008237f668       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/netsysmsg.o
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(atoi.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(ctype.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(inet.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcmp.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcpy.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memset.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(sget_response.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strchr.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strcmp.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strlen.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncmp.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncpy.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strstr.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strtol.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(vsprintf.o)
+ .bss           0x000000008237f688        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_callback.o)
+ .bss           0x000000008237f688        0x4 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_services.o)
+ *(.sbss)
+ *(COMMON)
+ COMMON         0x000000008237f68c      0x474 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+                0x000000008237f68c                g_APN
+                0x000000008237f6cc                myfdesc
+ COMMON         0x000000008237fb00      0x404 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+                0x000000008237fb00                cmd_buffer
+ *(.scommon)
+ .scommon       0x000000008237ff04       0x14 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+                0x000000008237ff04                TASK_FOUR
+                0x000000008237ff08                TASK_FIVE
+                0x000000008237ff0c                TASK_ONE
+                0x000000008237ff10                TASK_THREE
+                0x000000008237ff14                TASK_TWO
+                0x000000008237ff18                _SYS_APP_BSS_RAM_END = .
+                0x0000000000000d7c                _SYS_APP_BSS_SIZE = (_SYS_APP_BSS_RAM_END - _SYS_APP_BSS_RAM_START)
+                0x0000000000000001                ASSERT (((_SYS_APP_DATA_SIZE + _SYS_APP_BSS_SIZE) < 0x80000), APP DATA OVERFLOW !!)
+OUTPUT(/cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/image.out elf32-littlemips)
+
+.reginfo        0x0000000000000000       0x18
+ .reginfo       0x0000000000000000       0x18 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectClient.o
+
+.pdr            0x0000000000000000     0x2340
+ .pdr           0x0000000000000000       0xc0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectClient.o
+ .pdr           0x00000000000000c0       0x60 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o
+ .pdr           0x0000000000000120       0x40 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTDeserializePublish.o
+ .pdr           0x0000000000000160      0x140 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o
+ .pdr           0x00000000000002a0      0x220 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o
+ .pdr           0x00000000000004c0       0xc0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSerializePublish.o
+ .pdr           0x0000000000000580       0x60 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeClient.o
+ .pdr           0x00000000000005e0       0x40 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeServer.o
+ .pdr           0x0000000000000620       0x60 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeClient.o
+ .pdr           0x0000000000000680       0x40 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeServer.o
+ .pdr           0x00000000000006c0      0x280 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+ .pdr           0x0000000000000940      0x160 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+ .pdr           0x0000000000000aa0      0x420 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+ .pdr           0x0000000000000ec0       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/debug.o
+ .pdr           0x0000000000000ee0      0x140 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+ .pdr           0x0000000000001020      0x520 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o
+ .pdr           0x0000000000001540      0x140 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/netsysmsg.o
+ .pdr           0x0000000000001680       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(atoi.o)
+ .pdr           0x00000000000016a0       0x40 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(ctype.o)
+ .pdr           0x00000000000016e0       0x80 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(inet.o)
+ .pdr           0x0000000000001760       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcmp.o)
+ .pdr           0x0000000000001780       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcpy.o)
+ .pdr           0x00000000000017a0       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memset.o)
+ .pdr           0x00000000000017c0       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(sget_response.o)
+ .pdr           0x00000000000017e0       0x40 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strchr.o)
+ .pdr           0x0000000000001820       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strcmp.o)
+ .pdr           0x0000000000001840       0x40 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strlen.o)
+ .pdr           0x0000000000001880       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncmp.o)
+ .pdr           0x00000000000018a0       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncpy.o)
+ .pdr           0x00000000000018c0       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strstr.o)
+ .pdr           0x00000000000018e0       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strtol.o)
+ .pdr           0x0000000000001900       0xc0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(vsprintf.o)
+ .pdr           0x00000000000019c0       0x20 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_callback.o)
+ .pdr           0x00000000000019e0      0x960 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_services.o)
+
+.mdebug.abi32   0x0000000000000000        0x0
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectClient.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTDeserializePublish.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSerializePublish.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeClient.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeServer.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeClient.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeServer.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/debug.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/netsysmsg.o
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(atoi.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(ctype.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(inet.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcmp.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcpy.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memset.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(sget_response.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strchr.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strcmp.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strlen.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncmp.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncpy.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strstr.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strtol.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(vsprintf.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_callback.o)
+ .mdebug.abi32  0x0000000000000000        0x0 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_services.o)
+
+.comment        0x0000000000000000       0x31
+ .comment       0x0000000000000000       0x31 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectClient.o
+                                         0x32 (size before relaxing)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTDeserializePublish.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSerializePublish.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeClient.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeServer.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeClient.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeServer.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/debug.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/netsysmsg.o
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(atoi.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(ctype.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(inet.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcmp.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcpy.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memset.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(sget_response.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strchr.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strcmp.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strlen.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncmp.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncpy.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strstr.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strtol.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(vsprintf.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_callback.o)
+ .comment       0x0000000000000000       0x32 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_services.o)
+
+.gnu.attributes
+                0x0000000000000000       0x10
+ .gnu.attributes
+                0x0000000000000000       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectClient.o
+ .gnu.attributes
+                0x0000000000000010       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTConnectServer.o
+ .gnu.attributes
+                0x0000000000000020       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTDeserializePublish.o
+ .gnu.attributes
+                0x0000000000000030       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTFormat.o
+ .gnu.attributes
+                0x0000000000000040       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTPacket.o
+ .gnu.attributes
+                0x0000000000000050       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSerializePublish.o
+ .gnu.attributes
+                0x0000000000000060       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeClient.o
+ .gnu.attributes
+                0x0000000000000070       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTSubscribeServer.o
+ .gnu.attributes
+                0x0000000000000080       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeClient.o
+ .gnu.attributes
+                0x0000000000000090       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/MQTTUnsubscribeServer.o
+ .gnu.attributes
+                0x00000000000000a0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/adapter_linux.o
+ .gnu.attributes
+                0x00000000000000b0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/app.o
+ .gnu.attributes
+                0x00000000000000c0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/cmd.o
+ .gnu.attributes
+                0x00000000000000d0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/debug.o
+ .gnu.attributes
+                0x00000000000000e0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/genaric.o
+ .gnu.attributes
+                0x00000000000000f0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/manage.o
+ .gnu.attributes
+                0x0000000000000100       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/build/netsysmsg.o
+ .gnu.attributes
+                0x0000000000000110       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(atoi.o)
+ .gnu.attributes
+                0x0000000000000120       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(ctype.o)
+ .gnu.attributes
+                0x0000000000000130       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(inet.o)
+ .gnu.attributes
+                0x0000000000000140       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcmp.o)
+ .gnu.attributes
+                0x0000000000000150       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memcpy.o)
+ .gnu.attributes
+                0x0000000000000160       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(memset.o)
+ .gnu.attributes
+                0x0000000000000170       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(sget_response.o)
+ .gnu.attributes
+                0x0000000000000180       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strchr.o)
+ .gnu.attributes
+                0x0000000000000190       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strcmp.o)
+ .gnu.attributes
+                0x00000000000001a0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strlen.o)
+ .gnu.attributes
+                0x00000000000001b0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncmp.o)
+ .gnu.attributes
+                0x00000000000001c0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strncpy.o)
+ .gnu.attributes
+                0x00000000000001d0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strstr.o)
+ .gnu.attributes
+                0x00000000000001e0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(strtol.o)
+ .gnu.attributes
+                0x00000000000001f0       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/libsys_ext.a(vsprintf.o)
+ .gnu.attributes
+                0x0000000000000200       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_callback.o)
+ .gnu.attributes
+                0x0000000000000210       0x10 /cygdrive/c/Users/Trento.2016-0122-1612/Desktop/Recent_Work/Paho_MQTT/G510_OpenCPU_Demo_1.0.0.8/lib/sys_init.lib(sys_services.o)
